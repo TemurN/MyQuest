@@ -1,5 +1,5 @@
 <?php
-  class db {
+  class config {
     var $BASE_URL = 'test1.ru'
     
     var $DB_HOST = 'localhost' ;
