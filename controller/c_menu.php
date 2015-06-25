@@ -1,4 +1,6 @@
 <?php
+  require_once "../model/m_menu.php"
+
   class C_Menu extends M_Menu {
     function print_menu() {
       $res = $this->return_menu ;
